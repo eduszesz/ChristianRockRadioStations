@@ -28,6 +28,10 @@ App to play christian rock radio stations.
 App created by Eduardo Mioduski Szesz using the MIT App Inventor 2. This app uses the extensionTaifunNotification created by Pura Vida Apps (https://puravidaapps.com/) distributed under Creative Commons Attribution-ShareAlike 3.0 Unported License (https://creativecommons.org/licenses/by-sa/3.0/).
 App distributed under GNU GPL v3.0 license. Copyright 2017 Eduardo Mioduski Szesz.
 
+Source code available in file "ChristianRockRadioStations_v1.0.aia".The source code can be viewed/edited using the MIT App Inventor 2 available at http://appinventor.mit.edu/explore/get-started.
+
+Download the file "ChristianRockRadioStations_v1.0.apk" to install the app. Remember to allow your device to install the app from sources other than the Play Store. If you prefer, install directly from PLay Store at
+
 App Icon created by:
 <div>Icons made by <a href="http://www.flaticon.com/authors/madebyoliver" title="Madebyoliver">Madebyoliver</a> from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
 
